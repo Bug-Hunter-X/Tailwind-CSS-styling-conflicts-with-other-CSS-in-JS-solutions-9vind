@@ -1,0 +1,1 @@
+This bug occurs when using Tailwind CSS with a framework that uses a different CSS-in-JS solution. The Tailwind directives are not applied properly because of conflicting styles.
